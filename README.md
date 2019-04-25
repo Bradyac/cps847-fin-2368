@@ -1,3 +1,5 @@
+# Note: Angular files all in root with this README.md. Django portion in folder django-final.
+
 # AngularFinal
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.3.7.
